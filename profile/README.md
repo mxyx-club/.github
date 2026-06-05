@@ -1,11 +1,7 @@
 <div align="center">
   <h1>🍊 沫夏悠轩の聚会 · mxyx-club</h1>
   <p>一个《Among Us》中文玩家的小圈子</p>
-  <p>
-    <a href="https://www.mxyx.club/"><img src="https://img.shields.io/badge/官网-mxyx.club-blue?style=flat-square"/></a>
-    <a href="https://toue.mxyx.club"><img src="https://img.shields.io/badge/TOUE-游戏查询-green?style=flat-square"/></a>
-    <a href="mailto:info@mxyx.club"><img src="https://img.shields.io/badge/联系我们-Email-red?style=flat-square"/></a>
-  </p>
+  <br />
 </div>
 
 ---
@@ -32,7 +28,7 @@
 
 - 🧑‍🤝‍🧑 船员、伪装者、独立三大阵营，超 100 种职业
 - 🎲 赌怪模式、轮抽选角、匿名模式等玩法
-- 📈 游戏记录自动上传至 [toue.mxyx.club](https://toue.mxyx.club)
+- 📈 游戏记录可查询 [toue.mxyx.club](https://toue.mxyx.club)
 - 🔧 持续修 Bug，还在不断更新新职业、新功能。
 ---
 
