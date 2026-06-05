@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🍊 沫夏悠轩の聚会 · mxyx-club</h1>
   <p>一个《Among Us》中文玩家的小圈子</p>
-  <br />
+  <img src="mxyx.club.png" alt="mxyx-club logo" width="240">
 </div>
 
 ---
